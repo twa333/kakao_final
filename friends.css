@@ -1,0 +1,50 @@
+.myprofile__column {
+  margin-bottom: 50px;
+  border-bottom: 1px solid #f7f7f7;
+}
+.chats {
+  margin-bottom: 10px;
+  display: flex;
+}
+.chat__column {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.chat__avatarg-avatar {
+  border-radius: 26px;
+}
+.user__text {
+  margin-left: 5px;
+  height: 102px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  justify-content: center;
+  font-weight: 700;
+}
+.myName {
+  margin-bottom: 15px;
+}
+.myProfileText {
+  font-size: 13px;
+  opacity: 0.5;
+}
+
+.timestemp__column {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: 5px;
+  opacity: 0.5;
+}
+
+.plustitle__column {
+  font-size: 15px;
+  font-weight: 700;
+  margin-top: -40px;
+  margin-bottom: 20px;
+  opacity: 0.7;
+}

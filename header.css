@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.header__title {
+  font-size: 23px;
+  font-weight: 700;
+}
+.header__header-column-icon {
+  font-size: 18px;
+  cursor: pointer;
+  width: 140px;
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.header__chat {
+  display: flex;
+  justify-content: space-between;
+}

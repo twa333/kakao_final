@@ -1,0 +1,46 @@
+.find__column {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.qrcode__column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 20px;
+}
+.qrcode-icon {
+  font-size: 30px;
+}
+.contacts__column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 20px;
+}
+.contacts-icon {
+  font-size: 30px;
+}
+.barcode__column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 20px;
+}
+.barcode-icon {
+  font-size: 30px;
+}
+.invite__column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 20px;
+}
+.invite-icon {
+  font-size: 30px;
+}

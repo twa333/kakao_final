@@ -1,0 +1,21 @@
+@import "reset.css";
+@import "status-bar.css";
+@import "header.css";
+@import "nav.css";
+@import "friends.css";
+@import "find.css";
+@import "chatting.css";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+  padding: 10px 20px;
+  color: #020202;
+}
+
+a {
+  text-decoration: none;
+}
